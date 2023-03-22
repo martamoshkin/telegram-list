@@ -5,12 +5,8 @@
 Коллеги, если у вас есть интересные каналы, чаты или боты, интересные для программистов, кодеров и разработчиков, и релевантные интересным айти-тематикам - пожалуйста присылайте свои предложения и пулреквесты. Мы с большим удовольствием расширим наш полезный для всех список.
 Обратите внимание, что мы добавляем только релевантные ресурсы!
 
-* [Telegram Group List](https://t.me/listnews) — Официальный канал новостей этого списка групп
-* [Telegram Group List Chat](https://t.me/grouplst) — Чат списка: обсуждения, предложения и идеи.
+* [DevToExecutive](https://t.me/dev_to_executive) — От разработки до топ-менеджмента. Про построение систем, digital-команд, процессов, бизнес и просто про ИТ. 
 
-Канал недели:
-
-* [Data Science Jobs](https://t.me/datasciencejobs) — Работа и вакансии: Data Science / Machine Learning / Deep Learning / Artifical Inellegence / Neural Networks / Natural Language Processing / Data Mining
 
 -----
 
@@ -56,6 +52,7 @@
 ## Каналы
 
 ##### Новости
+* [DevToExecutive](https://t.me/dev_to_executive) — От разработки до топ-менеджмента. Про построение систем, digital-команд, процессов, бизнес и просто про ИТ. 
 * [opennet news](https://t.me/opennews) — Новости opennet
 * [SPbLUG news](https://t.me/spblug) — Канал новостей Санкт-Петербургской группы пользователей Linux (SPbLUG)
 * [Geeks](https://t.me/g33ks) — Статьи и новости. Для гиков и от гиков.
@@ -95,6 +92,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Каналы по программированию и разработке ПО
+* [DevToExecutive](https://t.me/dev_to_executive) — От разработки до топ-менеджмента. Про построение систем, digital-команд, процессов, бизнес и просто про ИТ. 
 * [GameDev Architecture](https://t.me/gamedev_architecture) — Автор пишет о том как игровым компаниям строить правильные, эффективные и красивые решения. Качество кода, проектирование архитектуры, лучшие практики.
 * [Апатичный дотнетчик](https://t.me/dotnetter) — Агрегатор новостей и статей из мира .NET
 * [pro.elixir_news](https://t.me/proelixir_news) — Новости из мира Elixir
@@ -465,6 +463,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Персональные блоги
+* [DevToExecutive](https://t.me/dev_to_executive) — От разработки до топ-менеджмента. Про построение систем, digital-команд, процессов, бизнес и просто про ИТ. 
 * [L'homme qui pleure](https://t.me/lhommequipleure) — Персональный канал Александра Чистякова ([@demeliorator](https://t.me/demeliorator))
 * [От Ромы из сидирома](https://t.me/cdroma) — канал [Романа Ахмадуллина](https://moikrug.ru/saggid), IT-инженера, мусульманина и геймера. Заметки о линуксе, веб-разработке, играх, управлении проектами и размышлениях о жизни.
 * [Gambala.live](https://t.me/gambala_live) — Канал Виталия Емельянцева - веб-разработчика и IT-шника. Знания и советы по CSS, JS, BEM, Ruby on Rails, бизнесу и жизни. Как войти в айти и жить в удовольствие.
@@ -1075,6 +1074,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Разные IT-сообщества
+* [DevToExecutive](https://t.me/dev_to_executive) — От разработки до топ-менеджмента. Про построение систем, digital-команд, процессов, бизнес и просто про ИТ. 
 * [IT PPL](https://t.me/spbitpeople) — IT People: общение айтишников и про айти, и не про айти ;-)
 * [SPbLUG chat](https://t.me/spblug_chat) — Saint Petersburg Linux talks (неофициальный чат SPbLUG)
 * [Chaos Construction](https://t.me/chaosconstructions) — Chaos Construction Санкт-Петербург
